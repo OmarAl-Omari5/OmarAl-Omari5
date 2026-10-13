@@ -26,7 +26,7 @@
  🔹 C#  
  🔹 .NET Development  
  🔹 Windows Forms  
- 🔹 SQL Server  
+ 🔹 SQL Server | T-SQL 
 
 📍 Following **ProgrammingAdvices Roadmap**  
 👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
